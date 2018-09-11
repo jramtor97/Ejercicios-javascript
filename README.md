@@ -1,2 +1,3 @@
 # prueba1
-Primer repositorio público en GitHub
+
+Ejemplo de repositorio para aprender a usar Git y GitHub.
