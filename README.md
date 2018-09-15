@@ -1,3 +1,2 @@
-# prueba1
-
-Ejemplo de repositorio para aprender a usar Git y GitHub.
+# ejercicios-javascript
+Lista de ejercicios de Javascript (cliente)
